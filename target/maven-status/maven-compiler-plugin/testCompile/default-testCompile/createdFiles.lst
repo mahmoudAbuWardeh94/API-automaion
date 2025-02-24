@@ -1,0 +1,4 @@
+com/gitHub/automation/steps/GitHubJobsAPIStepDef.class
+com/gitHub/automation/runner/RunCukesByCompositionTest.class
+com/gitHub/automation/runner/Hooks.class
+com/gitHub/automation/common/StateHelper.class
